@@ -5,7 +5,7 @@
 
 <img align="right" alt="Coding" height="400" width="1400" src="https://user-images.githubusercontent.com/86761352/169945655-3f531851-fbb5-4ce3-9f28-5e5e75e71a9b.gif">
 
-
+-    <h4 font-size="2rem";>   To check out my Portfolio click on this Link https://thakurshakti.github.io/Portfolio/</h4>
 - 🌱 I’m currently learning **React Native,TypeScript and many more**
 
 - 💬 Ask me about **JavaScript,HTML,CSS & React Native**
